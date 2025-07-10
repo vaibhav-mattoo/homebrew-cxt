@@ -1,8 +1,8 @@
 class Cxt < Formula
   desc "A command-line tool that aggregates file and directory contents into your clipboard, perfect for providing project context to AI chatbots"
   homepage "https://github.com/vaibhav-mattoo/cxt"
-  url "https://github.com/vaibhav-mattoo/cxt/archive/refs/tags/v0.1.2.tar.gz"
-  sha256 "1577728e90d31c5e782d662e0138338989a19d17ade44ca588525e4a04b3e88f"
+  url "https://github.com/vaibhav-mattoo/cxt/archive/refs/tags/v0.1.3.tar.gz"
+  sha256 "39fdc974a46cc9b993409b3e3c6811b1614e5bcea12ba0766a1f15aad6d596f1"
   license "MIT"
 
   depends_on "rust" => :build
